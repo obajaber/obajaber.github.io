@@ -5,12 +5,10 @@ permalink: /Education/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Education
+======
+* B.S. in Information Technology, King Abdulaziz Univeristy, 2017
+* M.S. in Computer Science, The George Washington University, 2020
+* Ph.D in Computer Science, Virginia Tech, 2025 (expected)
