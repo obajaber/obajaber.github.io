@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the Computer Science Department at Virginia Tech. I am advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof.  Peng Gao](https://people.cs.vt.edu/penggao/). 
+I am a second-year PhD student in the Computer Science Department at Virginia Tech. My advisors are [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof.  Peng Gao](https://people.cs.vt.edu/penggao/). I earned my M.S. in Computer Science from George Washington University in 2020 and my B.S. in Information Technology from King Abdulaziz University in 2017.
 
 My research interests broadly fall within the areas of system security and privacy, specifically on emerging computing platforms and complex systems, including recently proposed programmable switches and SmartNICs.
 
