@@ -13,6 +13,7 @@ My research interests broadly fall within the areas of system security and priva
 
 News
 ======
+* I have been selected for the 2023 Bitshares Fellowship (Jul 2023)
 * I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/) (Jun 2023)
 * I have been selected for the [CCI SWVA Cyber Innovation Scholarship](https://cyberinitiative-swva.org/) (Mar 2023)
 * I will serve on the Poster Program Committee of [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/cfposters.html) (Mar 2023)
