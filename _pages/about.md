@@ -30,4 +30,5 @@ Professional Services
 Awards
 ======
 * Bitshares Fellowship, Virginia Tech, Aug 2023
-* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), April 2023
+* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), Apr 2023
+* IEEE ICNP Travel Grant, Oct 2022
