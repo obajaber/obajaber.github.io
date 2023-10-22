@@ -13,12 +13,12 @@ My research interests broadly fall within the areas of system security and priva
 
 News
 ======
-* I will serve on the Program Committee of ICICS 2024 (Oct 2023)
-* I have been selected for the 2023 Bitshares Fellowship (Jul 2023)
-* I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/) (Jun 2023)
-* I have been selected for the [CCI SWVA Cyber Innovation Scholarship](https://cyberinitiative-swva.org/) (Mar 2023)
-* I will serve on the Poster Program Committee of [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/cfposters.html) (Mar 2023)
-* I received a travel grant to attend [IEEE ICNP 2022](https://icnp22.cs.ucr.edu/) (Sep 2022)
+* (Oct 2023) I will serve on the Program Committee of ICICS 2024
+* (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
+* (Jun 2023) I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/)
+* (Mar 2023) I have been selected for the [CCI SWVA Cyber Innovation Scholarship](https://cyberinitiative-swva.org/)
+* (Mar 2023) I will serve on the Poster Program Committee of [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/cfposters.html)
+* (Sep 2022) I received a travel grant to attend [IEEE ICNP 2022](https://icnp22.cs.ucr.edu/)
 
 Professional Services
 ======
