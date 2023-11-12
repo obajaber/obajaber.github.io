@@ -42,6 +42,7 @@ Professional Services
 * IEEE Symposium on Security and Privacy (S&P 2023)
 
 **External Reviewer:** 
+* IEEE European Symposium on Security and Privacy (Euro S&P 2024)
 * ACM Conference on Computer and Communications Security (CCS 2023)
 * International Conference on Information and Communications Security (ICICS 2023)
 * ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)
