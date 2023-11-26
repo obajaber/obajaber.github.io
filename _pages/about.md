@@ -17,7 +17,7 @@ Education
 
 News
 ======
-* (Oct 2023) I will serve on the Program Committee of ICICS 2024
+* (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
 * (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
 * (Jun 2023) I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/)
 * (Mar 2023) I have been selected for the [CCI SWVA Cyber Innovation Scholarship](https://cyberinitiative-swva.org/)
