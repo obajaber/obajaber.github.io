@@ -17,6 +17,7 @@ Education
 
 News
 ======
+* (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/)
 * (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
 * (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
 * (Jun 2023) I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/)
@@ -36,14 +37,14 @@ Professional Services
 * International Conference on Information and Communications Security (ICICS 2024)
 
 **Artifact Evaluation Committee:**
-* Network and Distributed System Security (NDSS 2024)
+* Network and Distributed System Security Symposium (NDSS 2024)
 
 **Poster Program Committee:** 
 * IEEE Symposium on Security and Privacy (S&P 2023)
 
 **External Reviewer:** 
+* ACM Conference on Computer and Communications Security (CCS 2024, 2023)
 * IEEE European Symposium on Security and Privacy (Euro S&P 2024)
-* ACM Conference on Computer and Communications Security (CCS 2023)
 * International Conference on Information and Communications Security (ICICS 2023)
 * ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)
 * IEEE International Conference on Parallel and Distributed Systems (ICPADS 2022)
