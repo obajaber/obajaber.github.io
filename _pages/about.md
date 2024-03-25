@@ -17,6 +17,7 @@ Education
 
 News
 ======
+* (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/)
 * (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/)
 * (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
 * (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
