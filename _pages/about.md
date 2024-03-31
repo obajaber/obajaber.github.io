@@ -41,7 +41,7 @@ Professional Services
 * Network and Distributed System Security Symposium (NDSS 2024)
 
 **Poster Program Committee:** 
-* IEEE Symposium on Security and Privacy (S&P 2023)
+* IEEE Symposium on Security and Privacy (S&P 2024, 2023)
 
 **External Reviewer:** 
 * ACM Conference on Computer and Communications Security (CCS 2024, 2023)
