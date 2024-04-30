@@ -29,8 +29,9 @@ News
 
 Awards
 ======
+* IEEE S&P Travel Grant, Apr 2024
+* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), 2023-2024
 * Bitshares Fellowship, Virginia Tech, Aug 2023
-* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), Apr 2023
 * IEEE ICNP Travel Grant, Oct 2022
 
 Professional Services
