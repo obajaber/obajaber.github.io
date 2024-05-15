@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-[P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF](https://people.cs.vt.edu/penggao/papers/p4control-sp24.pdf)  
+**[P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF](https://people.cs.vt.edu/penggao/papers/p4control-sp24.pdf)**  
 **Osama Bajaber**, Bo Ji, Peng Gao  
 IEEE Symposium on Security and Privacy (S&P / Oakland)  
 Acceptance rate: 14.9%  
