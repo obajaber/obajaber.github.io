@@ -15,11 +15,19 @@ Education
 * M.S. in Computer Science, The George Washington University, 2020
 * B.S. in Information Technology, King Abdulaziz University, 2017
 
+Publications
+======
+[P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF](https://people.cs.vt.edu/penggao/papers/p4control-sp24.pdf)
+**Osama Bajaber**, Bo Ji, Peng Gao
+IEEE Symposium on Security and Privacy (S&P / Oakland)
+Acceptance rate: 14.9%
+
 News
 ======
 * (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
 * (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/cfposters.html)
 * (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/)
+* (Oct 2023) Our paper "P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF" was accepted to **IEEE S&P (Oakland) 2024**!
 * (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
 * (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
 * (Jun 2023) I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/)
