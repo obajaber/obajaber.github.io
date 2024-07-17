@@ -44,19 +44,19 @@ Awards
 
 Professional Services
 ======
-**Organizing Committee:**<br>
+**Organizing Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/)
 
-**Program Committee:**<br>
+**Program Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
 
-**Artifact Evaluation Committee:**<br>
+**Artifact Evaluation Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2024)
 
-**Poster Program Committee:**<br>
+**Poster Program Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2024, 2023)
 
-**External Reviewer:**<br>
+**External Reviewer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2025)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Annual Computer Security Applications Conference (ACSAC 2025)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Computer and Communications Security (CCS 2024, 2023)<br>
