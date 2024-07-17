@@ -44,23 +44,23 @@ Awards
 
 Professional Services
 ======
-**Organizing Committee:**
-* [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/)
+**Organizing Committee:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/)
 
-**Program Committee:** 
-* International Conference on Information and Communications Security (ICICS 2024)
+**Program Committee:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
 
-**Artifact Evaluation Committee:**
-* Network and Distributed System Security Symposium (NDSS 2024)
+**Artifact Evaluation Committee:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2024)
 
-**Poster Program Committee:** 
-* IEEE Symposium on Security and Privacy (S&P 2024, 2023)
+**Poster Program Committee:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2024, 2023)
 
-**External Reviewer:** 
-* IEEE Symposium on Security and Privacy (S&P 2025)
-* Annual Computer Security Applications Conference (ACSAC 2025)
-* ACM Conference on Computer and Communications Security (CCS 2024, 2023)
-* IEEE European Symposium on Security and Privacy (Euro S&P 2024)
-* International Conference on Information and Communications Security (ICICS 2023)
-* ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)
-* IEEE International Conference on Parallel and Distributed Systems (ICPADS 2022)
+**External Reviewer:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2025)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Annual Computer Security Applications Conference (ACSAC 2025)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Computer and Communications Security (CCS 2024, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE European Symposium on Security and Privacy (Euro S&P 2024)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE International Conference on Parallel and Distributed Systems (ICPADS 2022)<br>
