@@ -24,6 +24,7 @@ Acceptance rate: 14.9%
 
 News
 ======
+* (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
 * (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
 * (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/cfposters.html)
 * (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/)
@@ -37,8 +38,9 @@ News
 
 Awards
 ======
+* Davenport Leadership Fellowship, Virginia Tech, Sep 2024
 * IEEE S&P Travel Grant, Apr 2024
-* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), 2023-2024
+* CCI SWVA Cyber Innovation Scholarship, Commonwealth Cyber Initiative (CCI), 2023-2025
 * Bitshares Fellowship, Virginia Tech, Aug 2023
 * IEEE ICNP Travel Grant, Oct 2022
 
