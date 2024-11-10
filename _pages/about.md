@@ -22,6 +22,10 @@ Publications
 IEEE Symposium on Security and Privacy (S&P / Oakland), 2024  
 Acceptance rate: 14.9%  
 
+**[CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity ](https://arxiv.org/abs/2410.21060)**  
+Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
+CoRR arXiv, 2024
+
 News
 ======
 * (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
