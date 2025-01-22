@@ -28,10 +28,11 @@ CoRR arXiv, 2024
 
 News
 ======
+* (Jan 2025) I will serve as a student organizer in the [DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
 * (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
 * (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
 * (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/cfposters.html)
-* (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/)
+* (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/previous-event-2024/)
 * (Oct 2023) Our paper "P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF" was accepted to **IEEE S&P (Oakland) 2024**!
 * (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
 * (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
@@ -51,7 +52,9 @@ Awards
 Professional Services
 ======
 **Organizing Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;• [2025 DMV Security Workshop](https://dmv-sec-workshop.github.io/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/previous-event-2024/)
+
 
 **Program Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
