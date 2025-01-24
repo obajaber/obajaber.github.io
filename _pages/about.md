@@ -28,7 +28,7 @@ CoRR arXiv, 2024
 
 News
 ======
-* (Jan 2025) I will be joining Meta as a PhD Software Engineer Intern in Summer 2025! 
+* (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
 * (Jan 2025) I will serve as a student organizer in the [DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
 * (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
 * (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
