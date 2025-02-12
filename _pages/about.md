@@ -17,14 +17,15 @@ Education
 
 Publications
 ======
+**[CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity ](https://arxiv.org/abs/2410.21060)**  
+Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
+IEEE European Symposium on Security and Privacy (EuroS&P), 2025
+
+
 **[P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF](https://people.cs.vt.edu/penggao/papers/p4control-sp24.pdf)**  
 **Osama Bajaber**, Bo Ji, Peng Gao  
 IEEE Symposium on Security and Privacy (S&P / Oakland), 2024  
 Acceptance rate: 14.9%  
-
-**[CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity ](https://arxiv.org/abs/2410.21060)**  
-Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
-CoRR arXiv, 2024
 
 News
 ======
