@@ -30,6 +30,7 @@ Acceptance rate: 14.9%
 
 News
 ======
+* (Feb 2025) Our paper "CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity" was accepted to IEEE EuroS&P 2025
 * (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
 * (Jan 2025) I will serve as a student organizer in the [DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
 * (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
