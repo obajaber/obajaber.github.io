@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-**[CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity ](https://arxiv.org/abs/2410.21060)**  
+**[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
 Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
 IEEE European Symposium on Security and Privacy (EuroS&P), 2025
 <br>Acceptance rate: TBA
@@ -30,9 +30,9 @@ Acceptance rate: 14.9%
 
 News
 ======
-* (Feb 2025) Our paper "CTINexus: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity" was accepted to IEEE EuroS&P 2025
+* (Feb 2025) Our paper "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models" was accepted to IEEE EuroS&P 2025
 * (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
-* (Jan 2025) I will serve as a student organizer in the [DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
+* (Jan 2025) I will serve as a student organizer in the [2nd DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
 * (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
 * (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
 * (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/cfposters.html)
