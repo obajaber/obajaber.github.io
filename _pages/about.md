@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in the Computer Science Department at Virginia Tech, advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof.  Peng Gao](https://people.cs.vt.edu/penggao/). My research interests broadly fall within the areas of system security and privacy, specifically on emerging computing platforms and complex systems, including recently proposed programmable switches and SmartNICs. Building upon this, I am particularly driven to develop secure, scalable, and intelligent primitives embedded within the network infrastructure, enhancing its security and robustness.
+I am a Ph.D. student in the Computer Science Department at Virginia Tech, advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) and [Dr. Peng Gao](https://people.cs.vt.edu/penggao/). My research interests broadly fall within the areas of system security and privacy, specifically on emerging computing platforms and complex systems, including recently proposed programmable switches and SmartNICs. Building upon this, I am particularly driven to develop secure, scalable, and intelligent primitives embedded within the network infrastructure, enhancing its security and robustness.
 
 Education
 =====
 * Ph.D in Computer Science, Virginia Tech, *Present*
-* M.S. in Computer Science, The George Washington University, 2020
-* B.S. in Information Technology, King Abdulaziz University, 2017
+* M.Sc. in Computer Science, The George Washington University, 2020
+* B.Sc. in Information Technology, King Abdulaziz University, 2017
 
 Publications
 ======
