@@ -60,8 +60,8 @@ Professional Services
 &nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/previous-event-2024/)
 
 
-**Journal Reviewer & Program Committee**<be>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)
+**Journal Reviewer & Program Committee**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
 
 **Artifact Evaluation Committee**<br>
