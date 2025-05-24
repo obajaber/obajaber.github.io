@@ -20,7 +20,7 @@ Publications
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
 Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
 IEEE European Symposium on Security and Privacy (EuroS&P), 2025
-<br>Acceptance rate: TBA
+<br>Acceptance rate: 20% 
 
 
 **[P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF](https://people.cs.vt.edu/penggao/papers/p4control-sp24.pdf)**  
