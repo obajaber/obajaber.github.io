@@ -61,23 +61,25 @@ Professional Services
 &nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/previous-event-2024/)
 
 
-**Journal Reviewer & Program Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ACM ASIA Conference on Computer and Communications Security (AsiaCCS)<br>
+**Program Committee**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2026)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
+
+**Journal Reviewer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Networking (ToN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
 
 **Artifact Evaluation Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2024)
 
 **Poster Program Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2024, 2023)
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2023-2024)
 
 **External Reviewer**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2025)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2025-2026)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2025)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Annual Computer Security Applications Conference (ACSAC 2025)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Computer and Communications Security (CCS 2024, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Computer and Communications Security (CCS 2023-2024)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE European Symposium on Security and Privacy (Euro S&P 2024)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2023)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)<br>
