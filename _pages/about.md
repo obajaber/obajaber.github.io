@@ -30,6 +30,7 @@ Acceptance rate: 14.9%
 
 News
 ======
+* (Jul 2025) I will serve on the Program Committee of ACM AsiaCCS 2026
 * (Feb 2025) Our paper "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models" was accepted to IEEE EuroS&P 2025
 * (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
 * (Jan 2025) I will serve as a student organizer in the [2nd DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
@@ -61,6 +62,8 @@ Professional Services
 
 
 **Journal Reviewer & Program Committee**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM ASIA Conference on Computer and Communications Security (AsiaCCS)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Networking (ToN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
 
