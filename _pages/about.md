@@ -30,6 +30,7 @@ Acceptance rate: 14.9%
 
 News
 ======
+* (Jul 2025) I will serve on the Program Committee of [PRISM 2026](https://www.ndss-symposium.org/ndss2026/co-located-events/prism/) (Co-located with NDSS)
 * (Jul 2025) I will serve on the Program Committee of [ACM AsiaCCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/)
 * (Feb 2025) Our paper "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models" was accepted to IEEE EuroS&P 2025
 * (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
@@ -62,25 +63,25 @@ Professional Services
 
 
 **Program Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2026)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;• PRISM 2026, co-located with NDSS 2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• AsiaCCS 2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ICICS 2024
 
 **Journal Reviewer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Networking (ToN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
 
 **Artifact Evaluation Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2024)
+&nbsp;&nbsp;&nbsp;&nbsp;• NDSS 2024
 
 **Poster Program Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2023-2024)
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE S&P 2023-2024
 
 **External Reviewer**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Symposium on Security and Privacy (S&P 2025-2026)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Network and Distributed System Security Symposium (NDSS 2025)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Annual Computer Security Applications Conference (ACSAC 2025)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Computer and Communications Security (CCS 2023-2024)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE European Symposium on Security and Privacy (Euro S&P 2024)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• International Conference on Information and Communications Security (ICICS 2023)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ACM Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2023)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• IEEE International Conference on Parallel and Distributed Systems (ICPADS 2022)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE S&P 2025-2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• USENIX Security 2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• CCS 2023-2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• NDSS 2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACSAC 2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE EuroS&P 2024<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• SIGMETRICS 2023<br>
