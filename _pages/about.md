@@ -17,9 +17,9 @@ Education
 
 Publications
 ======
-NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access
+NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access<br>
 **Osama Bajaber**, Bo Ji, Peng Gao  
-Network and Distributed System Security Symposium (NDSS), 2026
+Network and Distributed System Security Symposium (NDSS), 2026<br>
 Acceptance rate: TBA
 
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
