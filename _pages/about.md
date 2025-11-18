@@ -17,6 +17,11 @@ Education
 
 Publications
 ======
+NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access
+**Osama Bajaber**, Bo Ji, Peng Gao  
+Network and Distributed System Security Symposium (NDSS), 2026
+Acceptance rate: TBA
+
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
 Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
 IEEE European Symposium on Security and Privacy (EuroS&P), 2025
@@ -30,6 +35,8 @@ Acceptance rate: 14.9%
 
 News
 ======
+* (Nov 2025) Successfully defended my PhD dissertation!
+* (Nov 2025) Our paper "NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access" was accepted to **NDSS 2026**!
 * (Jul 2025) I will serve on the Program Committee of [PRISM 2026](https://www.ndss-symposium.org/ndss2026/co-located-events/prism/) (Co-located with NDSS)
 * (Jul 2025) I will serve on the Program Committee of [ACM AsiaCCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/)
 * (Feb 2025) Our paper "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models" was accepted to IEEE EuroS&P 2025
