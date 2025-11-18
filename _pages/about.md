@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access<br>
+**[NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access]()**<br>
 **Osama Bajaber**, Bo Ji, Peng Gao  
 Network and Distributed System Security Symposium (NDSS), 2026<br>
 Acceptance rate: TBA
