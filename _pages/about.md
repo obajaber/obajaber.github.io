@@ -11,7 +11,7 @@ I am a Ph.D. student in the Computer Science Department at Virginia Tech, advise
 
 Education
 =====
-* Ph.D in Computer Science, Virginia Tech, *Present*
+* Ph.D in Computer Science, Virginia Tech, 2025
 * M.Sc. in Computer Science, The George Washington University, 2020
 * B.Sc. in Information Technology, King Abdulaziz University, 2017
 
@@ -71,7 +71,7 @@ Professional Services
 
 **Program Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• PRISM 2026, co-located with NDSS 2026<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• AsiaCCS 2026<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ACM AsiaCCS 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• ICICS 2024
 
 **Journal Reviewer**<br>
