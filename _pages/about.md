@@ -9,11 +9,20 @@ redirect_from:
 ---
 I received my Ph.D. in Computer Science from Virginia Tech, where I was advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) and [Dr. Peng Gao](https://people.cs.vt.edu/penggao/). My research interests broadly fall within the areas of system security and privacy, specifically on emerging computing platforms and complex systems, including recently proposed programmable switches and SmartNICs. Building upon this, I am particularly driven to develop secure, scalable, and intelligent primitives embedded within the network infrastructure, enhancing its security and robustness.
 
+
 Education
 =====
-* Ph.D in Computer Science, Virginia Tech, 2025
+* Ph.D. in Computer Science, Virginia Tech, 2025
 * M.Sc. in Computer Science, The George Washington University, 2020
 * B.Sc. in Information Technology, King Abdulaziz University, 2017
+
+
+Experience
+=====
+* **Graduate Research Assistant**, Virginia Tech, Aug 2021 - Dec 2025
+* **PhD Software Engineer Intern**, Meta, May 2025 - Aug 2025
+* **Instructor**, King Abdulaziz University, Apr 2018 - Aug 2021
+* **Graduate Engineer**, Honeywell, Sep 2017 - Apr 2018
 
 Publications
 ======
@@ -35,27 +44,6 @@ Acceptance rate: 14.9%
 <span style="color:red; font-weight:600;">
 <br>Translated into a U.S. patent filing</span>
 
-
-News
-======
-* (Nov 2025) Successfully defended my PhD dissertation!
-* (Nov 2025) Our paper "NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access" was accepted to **NDSS 2026**!
-* (Jul 2025) I will serve on the Program Committee of [PRISM 2026](https://www.ndss-symposium.org/ndss2026/co-located-events/prism/) (Co-located with NDSS)
-* (Jul 2025) I will serve on the Program Committee of [ACM AsiaCCS 2026](https://asiaccs2026.cse.iitkgp.ac.in/program-committee/)
-* (Feb 2025) Our paper "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models" was accepted to IEEE EuroS&P 2025
-* (Jan 2025) I will join **Meta** as a **PhD Software Engineer Intern** in Summer 2025! 
-* (Jan 2025) I will serve as a student organizer in the [2nd DMV Security Workshop 2025](https://dmv-sec-workshop.github.io/)
-* (Sep 2024) I have been selected for the 2024 Davenport Leadership Fellowship
-* (Apr 2024) I received a travel grant to attend [IEEE S&P 2024](https://sp2024.ieee-security.org/)
-* (Mar 2024) I will serve on the Poster Program Committee of [IEEE S&P 2024](https://sp2024.ieee-security.org/cfposters.html)
-* (Jan 2024) I will serve as a student organizer in the inaugural [DMV Security Workshop 2024](https://dmv-sec-workshop.github.io/previous-event-2024/)
-* (Oct 2023) Our paper "P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF" was accepted to **IEEE S&P (Oakland) 2024**!
-* (Oct 2023) I will serve on the Program Committee of [ICICS 2024](http://icics2024.aegean.gr/technical-program-committee/)
-* (Jul 2023) I have been selected for the 2023 Bitshares Fellowship
-* (Jun 2023) I will serve on the Artifact Evaluation Committee of [NDSS 2024](https://secartifacts.github.io/ndss2024/)
-* (Mar 2023) I have been selected for the [CCI SWVA Cyber Innovation Scholarship](https://cyberinitiative-swva.org/)
-* (Mar 2023) I will serve on the Poster Program Committee of [IEEE S&P 2023](https://www.ieee-security.org/TC/SP2023/cfposters.html)
-* (Sep 2022) I received a travel grant to attend [IEEE ICNP 2022](https://icnp22.cs.ucr.edu/)
 
 Awards
 ======
@@ -80,6 +68,7 @@ Professional Services
 **Journal Reviewer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Networking (ToN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•IEEE Transactions on Information Forensics and Security (T-IFS)<br>
 
 **Artifact Evaluation Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• NDSS 2024
