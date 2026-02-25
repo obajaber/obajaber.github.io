@@ -29,7 +29,7 @@ Publications
 **[NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access](https://www.ndss-symposium.org/wp-content/uploads/2026-f273-paper.pdf)**<br>
 **Osama Bajaber**, Bo Ji, Peng Gao  
 Network and Distributed System Security Symposium (NDSS), 2026<br>
-Acceptance rate: TBA
+Acceptance rate: 17.9%
 
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
 Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
