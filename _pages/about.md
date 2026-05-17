@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my Ph.D. in Computer Science from Virginia Tech, where I was advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) and [Dr. Peng Gao](https://people.cs.vt.edu/penggao/). My research interests broadly fall within the areas of system security and privacy, specifically on emerging computing platforms and complex systems, including recently proposed programmable switches and SmartNICs. Building upon this, I am particularly driven to develop secure, scalable, and intelligent primitives embedded within the network infrastructure, enhancing its security and robustness.
+I received my Ph.D. in Computer Science from Virginia Tech, where I was advised by [Dr. Bo Ji](https://people.cs.vt.edu/boji/) and [Dr. Peng Gao](https://people.cs.vt.edu/penggao/). My research lies at the intersection of network security, systems security, and AI for security, with a focus on building intelligent and scalable solutions to address real-world security challenges.
 
 
 Education
