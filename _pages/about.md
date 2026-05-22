@@ -35,6 +35,7 @@ Acceptance rate: TBD
 **Osama Bajaber**, Bo Ji, Peng Gao  
 Network and Distributed System Security Symposium (NDSS), 2026<br>
 Acceptance rate: 17.9%
+<span style="color:red; font-weight:600;">
 <br>Translated into a U.S. patent filing</span>
 
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
