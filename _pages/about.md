@@ -26,10 +26,16 @@ Experience
 
 Publications
 ======
+**[eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF]()**<br>
+Rizky Ramadhana Putra Kusnaryanto, **Osama Bajaber**, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, Yuede Ji, Peng Gao<br>
+ACM Conference on Computer and Communications Security (CCS), 2026<br>
+Acceptance rate: TBD
+
 **[NetCap: Data-Plane Capability-Based Defense Against Token Theft in Network Access](https://www.ndss-symposium.org/wp-content/uploads/2026-f273-paper.pdf)**<br>
 **Osama Bajaber**, Bo Ji, Peng Gao  
 Network and Distributed System Security Symposium (NDSS), 2026<br>
 Acceptance rate: 17.9%
+<br>Translated into a U.S. patent filing</span>
 
 **[CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models](https://arxiv.org/abs/2410.21060)**  
 Yutong Cheng, **Osama Bajaber**, Saimon Amanuel Tsegai, Dawn Song, Peng Gao  
