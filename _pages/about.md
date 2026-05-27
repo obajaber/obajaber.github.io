@@ -63,19 +63,21 @@ Awards
 Professional Services
 ======
 **Organizing Committee**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• [2025 DMV Security Workshop](https://dmv-sec-workshop.github.io/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• [2025 DMV Security Workshop](https://dmv-sec-workshop.github.io/previous-event-2025)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• [2024 DMV Security Workshop](https://dmv-sec-workshop.github.io/previous-event-2024/)
 
 
 **Program Committee**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE INFOCOM 2027<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• PRISM 2026, co-located with NDSS 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• ACM AsiaCCS 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• ICICS 2024
 
 **Journal Reviewer**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Internet Computing (IC)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Networking (ToN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Dependable and Secure Computing (TDSC)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;•IEEE Transactions on Information Forensics and Security (T-IFS)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IEEE Transactions on Information Forensics and Security (T-IFS)<br>
 
 **Artifact Evaluation Committee**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• NDSS 2024
