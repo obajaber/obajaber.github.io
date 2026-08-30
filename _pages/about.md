@@ -26,7 +26,7 @@ Experience
 
 Publications
 ======
-**[eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF]()**<br>
+**[eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF](https://arxiv.org/pdf/2608.05300)**<br>
 Rizky Ramadhana Putra Kusnaryanto, **Osama Bajaber**, Saimon Amanuel Tsegai, Teryl Taylor, Frederico Araujo, Yuede Ji, Peng Gao<br>
 ACM Conference on Computer and Communications Security (CCS), 2026<br>
 Acceptance rate: TBD
